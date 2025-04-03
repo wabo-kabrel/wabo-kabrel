@@ -1,6 +1,6 @@
-# Hi, 
-# I'm Wabo Kabrel, a software engineering student and a web developer with a strong passion for programming and continuous learning.
-# I'm currently learning fullstack development while exploring cloud engineering concepts.
+Hi,  
+I'm Wabo Kabrel, a software engineering student and a web developer with a strong passion for programming and continuous learning.  
+I'm currently learning fullstack development while exploring cloud engineering concepts.
 
 
 <!---
