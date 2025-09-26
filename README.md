@@ -3,8 +3,7 @@
 
 # Hey, I'm Kabrel  
 
-I’m a **Software Engineering student**, **Web Developer**, and **Digital Marketer** with a growing passion for **Cloud Computing**, **Artificial Intelligence (AI)**, and **process automation with n8n**.  
-I enjoy building solutions that are practical, scalable, and impactful, while learning something new along the way. 
+I’m a Software Engineering student, Web Developer, and Digital Marketer who loves exploring Cloud Computing, AI, and automating tasks with n8n. I enjoy creating practical, scalable solutions while learning new things every day
 
 ---
 
@@ -108,9 +107,9 @@ I’m always open to connecting with like-minded developers, collaborators, and 
 
 ---
 
-## Quote of the Day  
+<!-- ## Quote of the Day  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
 
----
+--- -->
 
- Thanks for stopping by, let’s build something awesome together!
+ Thanks for stopping by!
