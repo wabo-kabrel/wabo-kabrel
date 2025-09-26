@@ -5,7 +5,6 @@
 
 I’m a Software Engineering student and a Backend Developer with an interest in Cloud Computing, AI, and automations with n8n.
 
----
 
 ## Skills & Technologies  
 
@@ -30,7 +29,6 @@ I’m a Software Engineering student and a Backend Developer with an interest in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
 </p>  
 
----
 
 ## Tools I Use  
 
@@ -44,23 +42,19 @@ I’m a Software Engineering student and a Backend Developer with an interest in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="30" height="30"/>  
 </p>  
 
----
 
 ## Current Focus  
 Expanding my expertise in **backend development**, while completing my undergraduate degree in **Software Engineering**.  
 
----
 
 ## Languages  
 - Fluent: **English**, **French**  
 - Beginner: **German (A2)**  
 
----
 
 ## Future Goals  
 Building a career in **Cloud Computing** and **Infrastructure Engineering**, creating systems that power modern businesses and communities.  
 
----
 
 ## Featured Projects
 - [Daily Motivational Quotes API (Flask)](https://github.com/wabo-kabrel/daily-motivational-quotes-api)
@@ -70,14 +64,12 @@ Building a career in **Cloud Computing** and **Infrastructure Engineering**, cre
 
 Explore more on my [GitHub Repositories](https://github.com/wabo-kabrel?tab=repositories).  
 
----
 
 ## GitHub Stats  
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wabo-kabrel&theme=tokyonight" alt="GitHub Streak" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wabo-kabrel&layout=compact&theme=tokyonight" alt="Top Languages" />
 
----
 
 ## Let’s Connect and Collaborate  
 
