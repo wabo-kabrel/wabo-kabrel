@@ -3,7 +3,7 @@
 
 # Hey, I'm Kabrel  
 
-I’m a Software Engineering student, Web Developer, and Digital Marketer who loves exploring Cloud Computing, AI, and automating tasks with n8n. I enjoy creating practical, scalable solutions while learning new things every day
+I’m a Software Engineering student and a Backend Developer with an interest in Cloud Computing, AI, and automations with N8N.
 
 ---
 
@@ -52,7 +52,7 @@ I’m a Software Engineering student, Web Developer, and Digital Marketer who lo
 ---
 
 ## Current Focus  
-Expanding expertise in **backend development**,  while completing my undergraduate degree in **Software Engineering**.  
+Expanding my expertise in **backend development**,  while completing my undergraduate degree in **Software Engineering**.  
 
 ---
 
@@ -88,7 +88,7 @@ Explore more on my [GitHub Repositories](https://github.com/wabo-kabrel?tab=repo
 ---
 
 ## Let’s Connect and Collaborate  
-I’m always open to connecting with like-minded developers, collaborators, and mentors. If you’re working on something exciting in **backend development**, **AI**, **cloud computing**, or **automation with n8n**, I’d love to hear from you!  
+I’m always open to connecting with like-minded developers, collaborators, and mentors.
 
 <p align="left">
   <a href="mailto:wabokabrel@gmail.com" target="_blank">
