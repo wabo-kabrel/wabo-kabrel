@@ -1,10 +1,8 @@
 ![Kabrel Banner](https://img.shields.io/badge/Welcome%20to%20My%20GitHub-1e3c72?style=for-the-badge&logo=github&logoColor=white&labelColor=2a5298)
 
-
 # Hey, I'm Kabrel  
 
-I’m a Software Engineering student and a Backend Developer with an interest in Cloud Computing, AI, and automations with N8N.
-
+I’m a Software Engineering student and a Backend Developer with an interest in Cloud Computing, AI, and automations with n8n.
 
 ## Skills & Technologies  
 
@@ -27,11 +25,7 @@ I’m a Software Engineering student and a Backend Developer with an interest in
   <!-- Other -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-</p>   -->
-
+</p>  
 
 ## Tools I Use  
 
@@ -41,47 +35,34 @@ I’m a Software Engineering student and a Backend Developer with an interest in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>  
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>   -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>  
 </p>  
 
-
 ## Current Focus  
-Expanding my expertise in **backend development**,  while completing my undergraduate degree in **Software Engineering**.  
-
+Expanding my expertise in **backend development**, while completing my undergraduate degree in **Software Engineering**.  
 
 ## Languages  
 - Fluent: **English**, **French**  
 - Beginner: **German (A2)**  
 
-
 ## Future Goals  
 Building a career in **Cloud Computing** and **Infrastructure Engineering**, creating systems that power modern businesses and communities.  
-
 
 ## Featured Projects
 - [Daily Motivational Quotes API (Flask)](https://github.com/wabo-kabrel/daily-motivational-quotes-api)
 - [YouTube Video Downloader (Flask)](https://github.com/wabo-kabrel/youtube-video-downloader)
 - [Task Manager API (Django)](https://github.com/wabo-kabrel/task-manager-api)
-- [Static YouTube Clone (HTML & CSS)](https://github.com/wabo-kabrel/YouTube-Clone)  
-
+- [Static YouTube Clone (HTML & CSS)](https://github.com/wabo-kabrel/YouTube-Clone)
 
 Explore more on my [GitHub Repositories](https://github.com/wabo-kabrel?tab=repositories).  
 
-
-
 ## GitHub Stats  
-
-<!-- ![Kabrel's GitHub stats](https://github-readme-stats.vercel.app/api?username=wabo-kabrel&show_icons=true&theme=tokyonight)   -->
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wabo-kabrel&theme=tokyonight)  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wabo-kabrel&layout=compact&theme=tokyonight)  
 
-
 ## Let’s Connect and Collaborate  
+
 I’m always open to connecting with like-minded developers, collaborators, and mentors.
 
 <p align="left">
@@ -99,11 +80,4 @@ I’m always open to connecting with like-minded developers, collaborators, and 
   </a>
 </p>
 
----
-
-<!-- ## Quote of the Day  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
-
---- -->
-
- Thanks for stopping by!
+Thanks for stopping by!
