@@ -38,7 +38,7 @@ I am Kabrel, a Software Engineering student and a Backend Developer with an inte
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25" height="25"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="25" height="25"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="25" height="25"/>  
- <img src="https://images.seeklogo.com/logo-png/47/1/n8n-logo-png_seeklogo-470809.png" alt="N8N" width="30 height="30">
+ <img src="https://vectorwiki.com/images/kFu4n__n8n.svg" alt="n8n" width="25" height="25"/>
 </p>
 
 
