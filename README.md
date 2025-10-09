@@ -52,7 +52,7 @@ Expanding my expertise in **backend development**, while completing my undergrad
 - German: Elementary   
 
 
-## Career Path
+## Goal
 Building a career in **Cloud Computing** and **Infrastructure Engineering**, creating systems that power modern businesses and communities.  
 
 
